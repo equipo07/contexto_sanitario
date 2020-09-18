@@ -845,8 +845,16 @@ a {
     padding: 2rem;
   }
 }
+.cid-saUGfsQN2X {
+  padding-top: 9rem;
+  padding-bottom: 10rem;
+  background-image: url("../../../assets/images/actualidad-1.png");
+}
+.cid-saUGfsQN2X .mbr-section-title {
+  color: #000000;
+}
 .cid-saUxPlpPlW {
-  padding-top: 1rem;
+  padding-top: 4rem;
   padding-bottom: 0rem;
   background-color: #ffffff;
 }
