@@ -967,6 +967,29 @@ a {
 .cid-saHTyQvIVh img {
   width: 100%;
 }
+.cid-sb5loFytVI {
+  padding-top: 2rem;
+  padding-bottom: 0rem;
+  background-color: #ffffff;
+}
+.cid-sb5loFytVI .image-wrap img {
+  width: 100%;
+}
+@media (min-width: 992px) {
+  .cid-sb5loFytVI .image-wrap img {
+    display: block;
+    margin: auto;
+    width: 100%;
+  }
+}
+.cid-sb5loFytVI .mbr-text,
+.cid-sb5loFytVI .mbr-section-btn {
+  text-align: left;
+}
+.cid-sb5loFytVI .mbr-section-title {
+  text-align: left;
+  color: #4c1efc;
+}
 .cid-sb5iSBJWvq {
   padding-top: 60px;
   padding-bottom: 60px;
